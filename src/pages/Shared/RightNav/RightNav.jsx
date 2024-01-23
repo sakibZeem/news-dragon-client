@@ -24,7 +24,7 @@ const RightNav = () => {
             <div className='position-relative'>
                 <img className='w-100' src={adBg} alt="" />
                 <div className='text-center position-absolute top-50 start-50 translate-middle text-white'>
-                    <h4 className='fs-1'>Create an Amazing Newspaper</h4>
+                    <h4 className='fs-1'>Create An Amazing Newspaper</h4>
                     <p className='fs-5'>Discover thousands of options, easy to customize layouts, one-click to import demo and much more.</p>
                     <Button variant="danger">Learn More</Button>
                 </div>
